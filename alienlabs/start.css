@@ -1,0 +1,78 @@
+body {
+  background-image: url(image/pixlr-image-generator-c5212fd7-250b-4758-8e13-8ed900e88f3f\ \(1\).png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+#logo {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  line-height: -20px;
+  margin: -0px;
+}
+
+.card {
+  margin: 0 auto;
+  background-color: rgba(64, 245, 191, 0.418);
+  color: white;
+}
+
+.texto-bienvenido {
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+
+.nav-link {
+    color: white; 
+    font-size: 18px; 
+  }
+  
+  .nav-item {
+    margin-right: 15px; 
+  }
+  
+  .texto-bienvenido {
+    color: white; 
+    text-align: center;
+    font-size: 24px; 
+    margin-top: 20px;
+  }
+  #joke{
+    font-size: 1.4rem;
+    color: #ffffff;
+    margin: 10%;
+
+}
+
+.wrapper{
+    width: 40%;
+    background-color: #76008d;
+    margin-top: 8%;
+    margin-left: 30%;
+    color: ffffff;
+    border-radius: 5px;
+}
+
+p{
+    font-size: 5%;
+    color: #ffffff;
+    margin: 10% 0;
+}
+
+#btn{
+    margin-left: 10%;
+
+
+    margin-bottom: 10%;
+}
+
+  
+  
+  
+  
